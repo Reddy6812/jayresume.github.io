@@ -5,6 +5,7 @@
 Master of Science in Computer Science Gainesville, FL
 Courses:**** Analysis of Algorithms, Advanced Data Structures, Distributed Operating System Principles, Computer and
 Information Security, Computer Networks, Mobile Computing
+
 **Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya** **July 2018 – July 2022**
 Bachelor of Engineering in Computer Science and Engineering; GPA: 3.57 (8.93/10.0) Tamil Nadu, India
 **Courses:** Data Structures and Algorithms, Computer Networks, Database Management Systems, Object Oriented
